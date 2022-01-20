@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-
-Here are some ideas to get you started:
+### Hi there, I'm Lavish Goyal 👋
 
 - 🔭 I’m currently working on MERN Stack Development
 - 🌱 I’m currently learning DSA
