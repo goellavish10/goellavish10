@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lavish Goyal</h1>
-<h3 align="center">Full Stack Engineer with expertise in MERN stack, and a passion for backend engineering. Seeking opportunities to apply skills and drive innovation.</h3>
+<h3 align="center">I'm a Full Stack Developer, with vast experience in building and scaling Backend services in a variety of tech stacks. I am seeking full-time opportunities to work with a great product and tech team.</h3>
 
-- 🔭 I’m currently working on a product dedicated to email marketing automation. 
+- 🔭 I’m currently building a tool for YouTube content creators. 
 
-- 🌱 I’m currently building with **Golang**
-
-- 👨‍💻 All of my projects are available at [https://lavishgoyal.vercel.app](https://lavishgoyal.vercel.app)
+- 🌱 I’m currently hacking with **Golang**
 
 - 💬 Ask me about **Nodejs, Golang, MongoDB**
 
@@ -13,7 +11,7 @@
 
 - 📄 Know about my experiences [https://tinyurl.com/resumelavish](https://tinyurl.com/resumelavish)
 
-- ⚡ I'm looking for opportunity as Software Developer at Product based organisations with a startup environment.
+- ⚡ I'm actively looking for full time Software Engineering opportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
