@@ -1,30 +1,50 @@
-<h1 align="center">Hi 👋, I'm Lavish Goyal</h1>
-<h3 align="center">I'm a Full Stack Developer, with vast experience in building and scaling Backend services in a variety of tech stacks. I am seeking full-time opportunities to work with a great product and tech team.</h3>
+<h1 align="center">Hi, I'm Lavish Goyal 👋</h1>
 
-- 🔭 I’m currently building a tool for YouTube content creators. 
-
-- 🌱 I’m currently hacking with **Golang**
-
-- 💬 Ask me about **Nodejs, Golang, MongoDB**
-
-- 📫 How to reach me **goellavish10@gmail.com**
-
-- 📄 Know about my experiences [https://tinyurl.com/resumelavish](https://tinyurl.com/resumelavish)
-
-- ⚡ I'm actively looking for full time Software Engineering opportunities.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lavishg10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavishg10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/goellavish10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goellavish10" height="30" width="40" /></a>
-<a href="https://hashnode.com/lavig10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="lavig10" height="30" width="40" /></a>
+<p align="center">
+  <b>Full-stack engineer at <a href="https://letterdrop.com">Letterdrop</a></b>. I build backend systems that hold up at scale.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://lavishgoyal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/goellavish10"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/lavishG10"><img src="https://img.shields.io/badge/@lavishG10-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:goellavish10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://tinyurl.com/resumelavish"><img src="https://img.shields.io/badge/Resume-4B5563?style=flat&logo=googledrive&logoColor=white" alt="Resume" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goellavish10&show_icons=true&locale=en&layout=compact" alt="goellavish10" /></p>
+## What I work on
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goellavish10&show_icons=true&locale=en" alt="goellavish10" /></p>
+- **Job pipelines** on GCP Pub/Sub and Cloud Run that survive crashes and duplicate deliveries
+- **Rate limiting** with Redis + Lua, including priority lanes and caps on AI spend
+- **MongoDB performance:** cut database spend by 55%
+- **LLM agents** on the Claude Agent SDK and LangGraph
+- **CRM integrations** with Salesforce and HubSpot, plus the React features built on them
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goellavish10&" alt="goellavish10" /></p>
+Previously at Xeno and ATC Couriers. I also built BookPal, a SaaS product that was acquired.
+
+## Side projects
+
+| Project | What it is |
+|---|---|
+| [codebase-indexing-v2](https://github.com/goellavish10/codebase-indexing-v2) | Q&A over a codebase, using pgvector |
+| [AI-API-cost-calculator-aggregator](https://github.com/goellavish10/AI-API-cost-calculator-aggregator) | Compares token costs for Claude, GPT and Gemini |
+| [clipshelf](https://github.com/goellavish10/clipshelf) | Clipboard history app for the macOS menu bar |
+| [auth-mid](https://github.com/goellavish10/auth-mid) | Authentication package for Go |
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,py,nodejs,express,react,redux,materialui,nextjs,fastapi&perline=11" alt="Languages and frameworks" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,gcp,aws,docker,kubernetes,nginx,githubactions,linux,git,bash&perline=12" alt="Data and infrastructure" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude Agent SDK" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white" alt="pgvector" />
+</p>
